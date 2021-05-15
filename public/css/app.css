@@ -1,0 +1,9 @@
+body {
+  background-color: darkgoldenrod;
+  color: white;
+}
+
+body .box-subtitle h2 {
+  color: lightskyblue;
+}
+

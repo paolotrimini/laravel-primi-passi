@@ -1,0 +1,14 @@
+
+$bg-color: darkgoldenrod;
+$main-color: white;
+$text-color: lightskyblue;
+
+body {
+    background-color: $bg-color;
+    color: $main-color;
+
+    .box-subtitle h2 {
+        color: $text-color;
+    }
+}
+
